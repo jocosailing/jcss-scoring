@@ -1,3 +1,3 @@
 [submodule "scorer"]
 	path = scorer
-	url = ../PortsmouthRaceCalc.git
+	url = ../portsmouth-race-calc.git

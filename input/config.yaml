@@ -1,6 +1,6 @@
 name: "JCSS Race Scores"
 name_short: "JCSS"
-code_location: "https://github.com/imorourke/jcss"
+code_location: "https://github.com/jocosailing/jcss-scoring"
 disclaimer: "All race results are unofficial. Official results placements are determined by club officers at the end of seach series."
 fleets:
   portsmouth_2017:
