@@ -27,7 +27,7 @@ jobs:
 
       - uses: shogo82148/actions-setup-perl@v1
         with:
-          perl-version: "5.34"
+          perl-version: "5.38"
           install-modules: |
             Math::Round
             YAML
