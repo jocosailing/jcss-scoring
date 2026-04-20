@@ -51,3 +51,28 @@ races:
         wind_bf: 4
       - notes: Cancelled due to rain
         wind_bf: 4
+  - date: "2026_04_19"
+    rc:
+      - Nick_H
+      - Dennis_S
+    races:
+      - notes: M3 west wind, run from the dock
+        wind_bf: 2
+        times:
+          Marcus_M: 35:10
+          Heather_B: 25:57
+          Ian_O: 21:14
+          Bill_P: 24:34
+          Adam_E: 45:15
+          Ryan_C: 28:28
+          Matt_L: 22:21
+      - notes: M3 west wind, run from the dock
+        wind_bf: 2
+        times:
+          Marcus_M: 31:54
+          Heather_B: 27:17
+          Ian_O: 20:25
+          Bill_P: 27:05
+          Adam_E: 41:05
+          Ryan_C: 34:10
+          Matt_L: 26:19
