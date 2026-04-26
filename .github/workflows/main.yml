@@ -19,7 +19,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install the latest version of uv
-        uses: astral-sh/setup-uv@v7
+        uses: astral-sh/setup-uv@v8
 
       - name: Setup Dependencies
         run: |
@@ -41,7 +41,7 @@ jobs:
           uv --project scorer run main -w build input/config.yaml
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v5
         with:
           branch: gh-pages
           folder: build
