@@ -76,3 +76,25 @@ races:
           Adam_E: 41:05
           Ryan_C: 34:10
           Matt_L: 26:19
+  - date: "2026_04_26"
+    rc:
+      - Rod_H
+      - Ryan_C
+      - Nick_H
+    races:
+      - notes: I2, run off dock
+        wind_bf: 2
+        offset_time: 5:00
+        times:
+          Chris_E: 25:35
+          Ian_O: 21:09
+          Matt_L: 24:18
+          Craig_J: 28:35
+      - notes: I3, run off dock
+        wind_bf: 2
+        offset_time: 5:00
+        times:
+          Chris_E: 31:27
+          Ian_O: 27:41
+          Matt_L: 31:12
+          Craig_J: FIP4
