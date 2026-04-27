@@ -32,16 +32,19 @@ jobs:
             Math::Round
             YAML
 
-      - name: Test
+      - name: Test Scoring
         run: |
           uv --project scorer run main -t tests input/config.yaml
 
-      - name: Build
+      - name: Build Website
         run: |
           uv --project scorer run main -w build input/config.yaml
 
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Upload Website
+        uses: actions/upload-pages-artifact@v3
         with:
-          branch: gh-pages
-          folder: build
+          path: build
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
