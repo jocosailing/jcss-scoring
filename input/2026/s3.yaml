@@ -73,3 +73,29 @@ races:
           Elliott_F: 42:03
       - notes: Cancelled
         wind_bf: 2
+  - date: "2026_09_13"
+    rc:
+      - Matt_O
+      - Nick_H
+    races:
+      - notes: M1
+        wind_bf: 2
+        times:
+          Bill_P: 12:19
+          Jeremy_B: 13:43
+          Ryan_C: 14:34
+          Matt_L: DNF
+      - notes: M2
+        wind_bf: 2
+        times:
+          Bill_P: 18:06
+          Jeremy_B: 20:43
+          Ryan_C: 20:22
+          Matt_L: 24:07
+      - notes: M1
+        wind_bf: 2
+        times:
+          Bill_P: 15:24
+          Jeremy_B: 17:40
+          Ryan_C: 17:51
+          Matt_L: 16:08
