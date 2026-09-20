@@ -17,7 +17,6 @@ boats:
   Craig_J: STFS
   Heather_B: SF
   Jim_M: SF
-  John_M: SF
   Sam: SF
   Marja_J: SF
   Danielle: SF
@@ -37,6 +36,8 @@ boats:
   Tom_O: SF
   Lyndee_H: SF
   Matt_O: SF
+  Keithley: LASE
+  John_M: LASEM
 races:
   - date: "2026_08_23"
     rc:
@@ -99,3 +100,28 @@ races:
           Jeremy_B: 17:40
           Ryan_C: 17:51
           Matt_L: 16:08
+  - date: "2026_09_20"
+    rc:
+      - Matt_L
+      - Jeremy_B
+    races:
+      - notes: M2
+        wind_bf: 2
+        times:
+          Bill_P: 26:05
+          Ian_O: 21:56
+          Dennis_S: DNS
+          Lyndee_H: 29:37
+          Ryan_C: 32:06
+          John_M: 29:46
+          Keithley: 33:14
+      - notes: M3
+        wind_bf: 2
+        times:
+          Bill_P: 38:59
+          Ian_O: 37:08
+          Dennis_S: DNS
+          Lyndee_H: 41:49
+          Ryan_C: 41:35
+          John_M: 48:47
+          Keithley: 44:39
