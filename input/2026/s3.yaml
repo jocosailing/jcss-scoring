@@ -36,7 +36,7 @@ boats:
   Tom_O: SF
   Lyndee_H: SF
   Matt_O: SF
-  Keithley: LASE
+  Keithly: LASE
   John_M: LASEM
 races:
   - date: "2026_08_23"
@@ -114,7 +114,7 @@ races:
           Lyndee_H: 29:37
           Ryan_C: 32:06
           John_M: 29:46
-          Keithley: 33:14
+          Keithly: 33:14
       - notes: M3
         wind_bf: 2
         times:
@@ -124,4 +124,35 @@ races:
           Lyndee_H: 41:49
           Ryan_C: 41:35
           John_M: 48:47
-          Keithley: 44:39
+          Keithly: 44:39
+  - date: "2026_09_27"
+    rc:
+      - Bill_P
+      - Jay_H
+    races:
+      - notes: M1
+        wind_bf: 0
+        offset_time: 5:00
+        boat_overrides:
+          Keithly: SF
+        times:
+          Chris_E: 25:48
+          Ian_O: 22:11
+          Ryan_C: 25:12
+          Lyndee_H: 25:35
+          John_M: 28:35
+          Keithly: 26:14
+          Jeremy_B: 25:00
+      - notes: M2 Shortened to M1
+        wind_bf: 0
+        offset_time: 5:00
+        boat_overrides:
+          Keithly: SF
+        times:
+          Chris_E: DNF
+          Ian_O: 51:12
+          Ryan_C: 1:03:56
+          Lyndee_H: DNF
+          John_M: 54:10
+          Keithly: 54:08
+          Jeremy_B: DNF
