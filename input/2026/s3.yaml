@@ -168,6 +168,7 @@ races:
         offset_time: 5:00
         boat_overrides:
           John_M: SF
+          Jay_H: HLR14
         times:
           Ian_O: 24:08
           Matt_L: 25:21
@@ -181,6 +182,7 @@ races:
         offset_time: 5:00
         boat_overrides:
           John_M: SF
+          Jay_H: HLR14
         times:
           Ian_O: 26:50
           Matt_L: 26:59
