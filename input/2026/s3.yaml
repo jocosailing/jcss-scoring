@@ -38,6 +38,8 @@ boats:
   Matt_O: SF
   Keithly: LASE
   John_M: LASEM
+  Cath_K: SF
+  Stanton_A: SF
 races:
   - date: "2026_08_23"
     rc:
@@ -156,3 +158,34 @@ races:
           John_M: 54:10
           Keithly: 54:08
           Jeremy_B: DNF
+  - date: "2026_10_04"
+    rc:
+      - Nick_H
+      - Cath_K
+    races:
+      - notes: M2
+        wind_bf: 2
+        offset_time: 5:00
+        boat_overrides:
+          John_M: SF
+        times:
+          Ian_O: 24:08
+          Matt_L: 25:21
+          Ryan_C: 28:42
+          Stanton_A: 25:45
+          Jeremy_B: 30:12
+          Jay_H: 36:15
+          John_M: 33:15
+      - notes: M2
+        wind_bf: 2
+        offset_time: 5:00
+        boat_overrides:
+          John_M: SF
+        times:
+          Ian_O: 26:50
+          Matt_L: 26:59
+          Ryan_C: 35:43
+          Stanton_A: 30:06
+          Jeremy_B: 31:13
+          Jay_H: 45:52
+          John_M: 42:13
